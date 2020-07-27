@@ -1,0 +1,4 @@
+# DOMAIN DRIVEN DESIGN + ONION ARCHITECTURE + CQRS + EVENT SOURCING
+![DDD](img/1.png)
+![DDDImpl](img/2.png)
+![CQRS](img/3.png)
