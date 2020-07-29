@@ -1,0 +1,10 @@
+spring:
+  cloud:
+    stream:
+      bindings:
+        usersv1:
+          destination: users.v1
+          producer.header-mode: headers
+      kafka:
+        binder:
+          brokers: localhost:9092
